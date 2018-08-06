@@ -2,4 +2,4 @@ Guia
 
 Proyecto de biografia
 
-LoL
+se me olvido dejar eso en local :v
